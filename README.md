@@ -21,6 +21,8 @@ For more details, check out the data description on the [Kaggle competition page
 
 The evaluation metric for the competition is **Root Mean Squared Logarithmic Error (RMSLE)**, calculated as:
 
+![image](https://github.com/user-attachments/assets/e69cca0d-219e-441e-865e-ca3661f0e2a2)
+
 
 Where:
 
@@ -54,11 +56,3 @@ Where:
 ### Evaluation:
 
 - Submitted predictions for the test data and evaluated the performance using **RMSLE**.
-
-## Files
-
-- **notebooks/**: Jupyter notebooks for data analysis, feature engineering, model training, and evaluation.
-- **scripts/**: Python scripts for data preprocessing and model training.
-- **submission/**: Contains the generated `submission.csv` files for Kaggle competition submission.
-- **README.md**: Project overview and details.
-
